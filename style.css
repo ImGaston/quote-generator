@@ -1,0 +1,60 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    border: 0;
+}
+
+html {
+    font-size: 62.5%;
+    font-family: 'Noto Sans JP',
+        sans-serif;
+}
+
+body {
+    background: whitesmoke;
+    max-width: 700px;
+    display: grid;
+
+}
+
+h1 {
+    font-size: 3.2rem;
+    font-family: 'Roboto',
+        sans-serif;
+}
+
+h2 {
+    font-size: 2.4rem;
+    font-style: oblique;
+    background: #EBEBEB;
+    border-left: 5px solid #ccc;
+    margin: 1.5em 10px;
+    padding: 0.5em 10px;
+}
+
+h3 {
+    font-size: 1.8rem;
+    margin-top: .8rem;
+}
+
+p {
+    font-size: 1.6rem;
+    margin-bottom: 0%;
+}
+
+.ask {
+    font-size: 1.2rem;
+    margin-top: 0%;
+    margin-bottom: 1.6rem;
+}
+
+a {
+    font-size: 1.6rem;
+    text-decoration: none;
+}
+
+/*  h1=32px
+    h2=24px
+    h3=18px
+    p=16px
+*/
