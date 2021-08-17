@@ -3,7 +3,7 @@ function getRandomArbitrary(min, max) {
     return Math.floor(Math.random() * (max - min) + min);
 }
 
-const number = getRandomArbitrary(1, 920);
+const number = getRandomArbitrary(0, 922);
 console.log(number);
 
 const getData = async () => {
