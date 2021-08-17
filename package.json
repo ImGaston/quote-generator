@@ -7,8 +7,5 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "isomorphic-fetch": "^3.0.0"
-  }
+  "license": "ISC"
 }
