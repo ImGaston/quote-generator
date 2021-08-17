@@ -45,7 +45,13 @@ p {
 .ask {
     font-size: 1.2rem;
     margin-top: 0%;
+    margin-bottom: 4rem;
+}
+
+.thanks {
+    font-size: 1.2rem;
     margin-bottom: 1.6rem;
+    margin-top: 2rem;
 }
 
 a {
@@ -55,6 +61,10 @@ a {
 
 #Shared {
     font-size: 1.8rem;
+    background-color: rgb(29, 161, 242);
+    color: rgb(255, 255, 255);
+    padding: 18px 26px;
+    border-radius: 30px;
 
 }
 
