@@ -8,6 +8,8 @@ html {
     font-size: 62.5%;
     font-family: 'Noto Sans JP',
         sans-serif;
+    max-width: 700px;
+    margin: auto;
 }
 
 body {
@@ -59,12 +61,19 @@ a {
     text-decoration: none;
 }
 
+main a:hover {
+    text-decoration: underline;
+    font-weight: bold;
+}
+
 #Shared {
     font-size: 1.8rem;
     background-color: rgb(29, 161, 242);
     color: rgb(255, 255, 255);
-    padding: 18px 26px;
+    padding: 18px 70px;
     border-radius: 30px;
+    min-height: 52px;
+    min-width: 225px;
 
 }
 
